@@ -32,13 +32,13 @@
     },
     {
       "name": "Docker Setup",
-      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "url": "https://github.com/Create-Node-App/docker-extensions",
       "branch": "addons/docker/web",
       "license": "MIT License"
     },
     {
       "name": "Android Tools",
-      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "url": "https://github.com/Create-Node-App/android-tools",
       "branch": "addons/docker/android",
       "license": "MIT License"
     },
