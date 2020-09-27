@@ -29,7 +29,7 @@
       "description": "Extension to add Redux Saga middleware to your React + Redux setup"
     },
     {
-      "name": "Ionic React for Cross Platform Apps",
+      "name": "Cross Platform Apps with Ionic React + Capacitor",
       "url": "https://github.com/Create-Node-App/create-react-webpack-app",
       "branch": "addons/ionic",
       "license": "MIT License",
