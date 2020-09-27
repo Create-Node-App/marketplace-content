@@ -3,57 +3,68 @@
     {
       "name": "React base",
       "url": "https://github.com/Create-Node-App/create-react-webpack-app",
-      "branch": "addons/base"
+      "branch": "addons/base",
+      "license": "MIT License"
     },
     {
       "name": "Recoil.js",
       "url": "https://github.com/Create-Node-App/create-react-webpack-app",
-      "branch": "addons/recoil"
+      "branch": "addons/recoil",
+      "license": "MIT License"
     },
     {
       "name": "React Redux base setup",
       "url": "https://github.com/Create-Node-App/create-react-webpack-app",
-      "branch": "addons/redux"
+      "branch": "addons/redux",
+      "license": "MIT License"
     },
     {
       "name": "Redux Saga Extension",
       "url": "https://github.com/Create-Node-App/create-react-webpack-app",
-      "branch": "addons/saga"
+      "branch": "addons/saga",
+      "license": "MIT License"
     },
     {
       "name": "Ionic React for Cross Platform Apps",
       "url": "https://github.com/Create-Node-App/create-react-webpack-app",
-      "branch": "addons/ionic"
+      "branch": "addons/ionic",
+      "license": "MIT License"
     },
     {
       "name": "Docker Setup",
       "url": "https://github.com/Create-Node-App/create-react-webpack-app",
-      "branch": "addons/docker/web"
+      "branch": "addons/docker/web",
+      "license": "MIT License"
     },
     {
       "name": "Android Tools",
       "url": "https://github.com/Create-Node-App/create-react-webpack-app",
-      "branch": "addons/docker/android"
+      "branch": "addons/docker/android",
+      "license": "MIT License"
     },
     {
       "name": "Semantic UI React",
       "url": "https://github.com/Create-Node-App/create-react-webpack-app",
-      "branch": "addons/semantic-ui"
+      "branch": "addons/semantic-ui",
+      "license": "MIT License"
     },
     {
       "name": "Ant Design for React",
       "url": "https://github.com/Create-Node-App/create-react-webpack-app",
-      "branch": "addons/ant-design"
+      "branch": "addons/ant-design",
+      "license": "MIT License"
     },
     {
       "name": "Bootstrap React",
       "url": "https://github.com/Create-Node-App/create-react-webpack-app",
-      "branch": "addons/bootstrap"
+      "branch": "addons/bootstrap",
+      "license": "MIT License"
     },
     {
       "name": "Material UI",
       "url": "https://github.com/Create-Node-App/create-react-webpack-app",
-      "branch": "addons/material-ui"
+      "branch": "addons/material-ui",
+      "license": "MIT License"
     }
   ]
 }
