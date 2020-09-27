@@ -1,3 +1,59 @@
 {
-  "repositories": []
+  "repositories": [
+    {
+      "name": "React base",
+      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "branch": "addons/base"
+    },
+    {
+      "name": "Recoil.js",
+      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "branch": "addons/recoil"
+    },
+    {
+      "name": "React Redux base setup",
+      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "branch": "addons/redux"
+    },
+    {
+      "name": "Redux Saga Extension",
+      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "branch": "addons/saga"
+    },
+    {
+      "name": "Ionic React for Cross Platform Apps",
+      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "branch": "addons/ionic"
+    },
+    {
+      "name": "Docker Setup",
+      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "branch": "addons/docker/web"
+    },
+    {
+      "name": "Android Tools",
+      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "branch": "addons/docker/android"
+    },
+    {
+      "name": "Semantic UI React",
+      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "branch": "addons/semantic-ui"
+    },
+    {
+      "name": "Ant Design for React",
+      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "branch": "addons/ant-design"
+    },
+    {
+      "name": "Bootstrap React",
+      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "branch": "addons/bootstrap"
+    },
+    {
+      "name": "Material UI",
+      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "branch": "addons/material-ui"
+    }
+  ]
 }
