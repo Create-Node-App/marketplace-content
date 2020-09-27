@@ -1,7 +1,7 @@
 {
   "repositories": [
     {
-      "name": "React base",
+      "name": "React + Webpack Setup",
       "url": "https://github.com/Create-Node-App/create-react-webpack-app",
       "branch": "addons/base",
       "license": "MIT License"
