@@ -1,81 +1,92 @@
 {
   "repositories": [
     {
-      "name": "React + Webpack Setup",
-      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "title": "React + Webpack Setup",
+      "description": "Production ready setup of React + Webpack with a bunch of tools for easy development",
+      "name": "Create-Node-App/create-react-webpack-app",
       "branch": "addons/base",
-      "license": "MIT License",
-      "description": "Production ready setup of React + Webpack with a bunch of tools for easy development"
+      "source": "github",
+      "license": "MIT License"
     },
     {
-      "name": "Recoil.js",
-      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "title": "Recoil.js",
+      "description": "Extension to add Recoil.js, a state management library for React that lets you a data-flow graph that flows from atoms",
+      "name": "Create-Node-App/create-react-webpack-app",
       "branch": "addons/recoil",
-      "license": "MIT License",
-      "description": "Extension to add Recoil.js, a state management library for React that lets you a data-flow graph that flows from atoms"
+      "source": "github",
+      "license": "MIT License"
     },
     {
-      "name": "React Redux base setup",
-      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "title": "React Redux base setup",
+      "description": "Extension to add the official React bindings for Redux with a fully configured store",
+      "name": "Create-Node-App/create-react-webpack-app",
       "branch": "addons/redux",
-      "license": "MIT License",
-      "description": "Extension to add the official React bindings for Redux with a fully configured store"
+      "source": "github",
+      "license": "MIT License"
     },
     {
-      "name": "Redux Saga Extension",
-      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "title": "Redux Saga Extension",
+      "description": "Extension to add Redux Saga middleware to your React + Redux setup",
+      "name": "Create-Node-App/create-react-webpack-app",
       "branch": "addons/saga",
-      "license": "MIT License",
-      "description": "Extension to add Redux Saga middleware to your React + Redux setup"
+      "source": "github",
+      "license": "MIT License"
     },
     {
-      "name": "Cross Platform Apps with Ionic React + Capacitor",
-      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "title": "Cross Platform Apps with Ionic React + Capacitor",
+      "description": "Add Ionic React and Capacitor to your cross platform react app",
+      "name": "Create-Node-App/create-react-webpack-app",
       "branch": "addons/ionic",
-      "license": "MIT License",
-      "description": "Add Ionic React and Capacitor to your cross platform react app"
+      "source": "github",
+      "license": "MIT License"
     },
     {
-      "name": "Docker Setup",
-      "url": "https://github.com/Create-Node-App/docker-extensions",
+      "title": "Docker Setup",
+      "description": "Add docker environments for development and production to your React + Webpack setup",
+      "name": "Create-Node-App/docker-extensions",
       "branch": "addons/docker/web",
-      "license": "MIT License",
-      "description": "Add docker environments for development and production to your React + Webpack setup"
+      "source": "github",
+      "license": "MIT License"
     },
     {
-      "name": "Android Tools",
-      "url": "https://github.com/Create-Node-App/android-tools",
+      "title": "Android Tools",
+      "description": "Avoid using heavy IDEs by installing this extension that creates an elegant tool setup for your android app",
+      "name": "Create-Node-App/android-tools",
       "branch": "addons/docker/android",
-      "license": "MIT License",
-      "description": "Avoid using heavy IDEs by installing this extension that creates an elegant tool setup for your android app"
+      "source": "github",
+      "license": "MIT License"
     },
     {
-      "name": "Semantic UI React",
-      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "title": "Semantic UI React",
+      "description": "Extension to add React Semantic UI to your setup with theme customization",
+      "name": "Create-Node-App/create-react-webpack-app",
       "branch": "addons/semantic-ui",
-      "license": "MIT License",
-      "description": "Extension to add React Semantic UI to your setup with theme customization"
+      "source": "github",
+      "license": "MIT License"
     },
     {
-      "name": "Ant Design for React",
-      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "title": "Ant Design for React",
+      "description": "Extension to add Ant Design React",
+      "name": "Create-Node-App/create-react-webpack-app",
       "branch": "addons/ant-design",
-      "license": "MIT License",
-      "description": "Extension to add Ant Design React"
+      "source": "github",
+      "license": "MIT License"
     },
     {
-      "name": "Bootstrap React",
-      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "title": "Bootstrap React",
+      "description": "Extension to add Bootstrap React",
+      "name": "Create-Node-App/create-react-webpack-app",
       "branch": "addons/bootstrap",
-      "license": "MIT License",
-      "description": "Extension to add Bootstrap React"
+      "source": "github",
+      "license": "MIT License"
     },
     {
-      "name": "Material UI",
-      "url": "https://github.com/Create-Node-App/create-react-webpack-app",
+      "title": "Material UI",
+      "description": "Extension to add Material UI to your React app",
+      "name": "Create-Node-App/create-react-webpack-app",
       "branch": "addons/material-ui",
-      "license": "MIT License",
-      "description": "Extension to add Material UI to your React app"
+      "source": "github",
+      "license": "MIT License"
     }
   ]
 }
